@@ -1,5 +1,3 @@
-cat > week0_explore/preview/data/.gitignore <<'EOF'
 *
 !.gitignore
 !.keep
-EOF
