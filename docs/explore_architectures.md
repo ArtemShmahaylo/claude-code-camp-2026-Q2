@@ -87,3 +87,7 @@ Every answer should include evidence showing:
 An MCP server may later provide a cleaner tool interface around the MUD SDK. However, building an MCP server before creating a stable MUD client would add unnecessary complexity.
 
 The next experiment should first create a reusable and testable MUD SDK. The Player Journey Agent can then use this SDK instead of generating temporary connection scripts during every run.
+
+## 2. Agent Skills driven by main agent eg. ~/.skills
+
+A very common way to drive specific functionality is via Agent Skills which is an open format for agents adopted by many coding harnesses and agent SDKs. 
